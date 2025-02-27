@@ -1,4 +1,4 @@
-
+![logo](https://github.com/reetejshankar/reetejshankar/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Reetej Shankar Singh</h1>
 <h3 align="center">"Empowering Innovators: Building the Future with Code & Creativity"</h3>
 
